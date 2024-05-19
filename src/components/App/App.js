@@ -1,5 +1,6 @@
-import Game from '../Game';
-import Header from '../Header';
+import Game from "../Game";
+import Header from "../Header";
+import Keyboard from "../Keyboard/Keyboard";
 
 function App() {
   return (
